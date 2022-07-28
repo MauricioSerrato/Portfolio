@@ -1,0 +1,120 @@
+
+
+
+
+header {
+ 
+    padding: 30px;
+    background-image: url(https://media.istockphoto.com/photos/technology-ne…=0&h=-HiUi3ULxlVFyOTW26jmwqN7ERopNCEpwywG4RijAgE=);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}   
+nav{
+    display: flex;
+    background-color: azure;
+}
+.logo{
+    margin-left: 5px;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    font-size: 20px;
+
+}
+#navbar{
+    text-align: center;
+   
+    /* background-color: aquamarine; */
+}
+.nav{
+    list-style-type:none;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+    text-align: center;
+    margin-left: 225px;
+    font-size: 20px;
+    text-transform: capitalize;
+
+}
+
+
+
+body{
+    padding: 0%;
+    margin: 0%;
+    background-image: url(https://www.seorepublik.com/wp-content/uploads/2017/03/slider-seorepublik.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+    width: 100%;
+    height: 100vh;
+    /* background: linear-gradient(-45deg, #011124, #2668ae, #0b3241, #030303 ); */
+    animation: change 10s ease-in-out infinite;
+}
+
+
+.links li{
+    display: inline-block;
+    margin-left: 500px;
+    padding: 10px;
+    font-size: 25px;
+ 
+    
+}
+
+/* #app1 {
+    color: azure;
+    margin-left: 150px;
+    background-color: black;
+    padding: 15px;
+    width: 150px;
+    border-radius: 50px;
+}
+
+#app2 {
+    color: azure;
+    margin-left: -280px;
+    background-color: black;
+    padding: 15px;
+    width: 150px;
+    border-radius: 50px;
+} */
+
+#img1 {
+    width: 250px;
+    border-radius: 128px;
+    margin-left: 800px;
+    margin-top: 50px;
+    border-color: yellow;
+    border: 15px solid black;
+}
+
+/* div{
+    background-color: grey;
+    border-style: dashed;
+    margin: 10px;
+} */
+
+#about-me{
+    height: 100px;
+}
+
+/* 
+@keyframes change {
+    0%{
+        background-position: 0 50%;
+
+    }
+    50%{
+        background-posoition: 100% 50%;
+
+    }
+    100% {
+        background-position: 0 50%;
+    }
+} */
