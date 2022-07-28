@@ -1,0 +1,82 @@
+nav{
+    display: flex;
+    background-color: #fafafa;
+    margin: 0%;
+    padding: 0%;
+}
+
+.logo{
+    margin-left: 5px;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    font-size: 20px;
+
+}
+
+#navbar{
+    text-align: center;
+    text-decoration: none;
+
+   
+}
+
+.nav{
+    list-style-type:none;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+    text-align: center;
+    margin-left: 225px;
+    font-size: 20px;
+    text-transform: capitalize;
+
+}
+
+#app1 {
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+}
+
+#app2 {
+text-decoration: none;
+font-size: 18px;
+color: black;
+
+} 
+#app3 {
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+
+}
+
+#app4 {
+text-decoration: none;
+font-size: 18px;
+color: black;
+
+}
+
+#app5 {
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+}
+
+
+body{
+    padding: 0%;
+    margin: 0%;
+    background-image: url(https://www.razoredge-media.co.uk/wp-content/uploads/2016/10/whatsintown-portfolio-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+    width: 100%;
+    height: 100vh;
+    /* background: linear-gradient(-45deg, #011124, #2668ae, #0b3241, #030303 ); */
+    animation: change 10s ease-in-out infinite;
+}
