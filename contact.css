@@ -80,3 +80,20 @@ body{
     /* background: linear-gradient(-45deg, #011124, #2668ae, #0b3241, #030303 ); */
     animation: change 10s ease-in-out infinite;
 }
+
+h1{
+    text-align: center;
+    margin-top:50px;
+}
+
+#get-started{
+    margin-left: 920px;
+    margin-top: 200px;
+
+}
+
+
+#contact-info{
+    text-align: center;
+    margin-top: 10px;
+}
