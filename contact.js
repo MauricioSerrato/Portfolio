@@ -28,7 +28,6 @@ const description = () => {
 
 
 
-
 $(() =>{
 
 $('#get-started').on('click', forum)

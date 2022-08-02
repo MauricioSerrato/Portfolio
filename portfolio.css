@@ -80,3 +80,47 @@ body{
     /* background: linear-gradient(-45deg, #011124, #2668ae, #0b3241, #030303 ); */
     animation: change 10s ease-in-out infinite;
 }
+
+
+#image-container {
+    position: relative;
+    display: flex;
+    /* left: 50px; */
+
+}
+#container{
+    position: absolute;
+    text-align: center;
+    /* background-color:; */
+    height: 100%;
+    left: 500px;
+}
+
+
+.images img{
+    display: none;
+}
+/* whats the differnce between class and id and why does image display none on a class work */
+/* and i am able to display block another picture below but if .images img was an id it was not working */
+#tree{
+    display: block;
+}
+
+.next{
+    margin-left: 50px;
+    margin-top: 200px;
+    padding: 15px;
+    border-radius: 15px;
+    background-color: black;
+    color: #fafafa;
+}
+
+#previous {
+    margin-right: 50px;
+    margin-top: 200px;
+    padding: 15px;
+    border-radius: 15px;
+    background-color: black;
+    color: #fafafa;
+
+}
