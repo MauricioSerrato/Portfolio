@@ -7,9 +7,9 @@
 
 
 const aboutME =() =>{
-    let $aboutME = $('.meparagraph').text (`finishing my bachelors in therapeutic recreation with a job after as recrational therapis 
-    in a behavioral journer. I realized quickly that my passion lied else where. Always being intrueged and
-    pasionate abou the tech industry I found myself stumbling upon a new career path as a software engineer. 
+    let $aboutME = $('.meparagraph').text (`finishing my bachelors in therapeutic recreation and aquiring a job as a recrational therapist 
+    in a behavioral unit. I realized quickly that my passion lied else where. Always being very interested and
+    pasionate about the tech industry I found myself stumbling upon a new career path as a software engineer. 
     As a full stack developer I am capable of developing both client and server software. skils included and are 
     not limited to Javascript, Python, MongoDB, Jquery, node, HTML/CSS, Git, React`).appendTo($('#about-me'))
 
